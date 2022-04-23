@@ -18,14 +18,13 @@
 [![html-css](https://github-readme-stats.vercel.app/api/pin/?username=srodrigodecastro&repo=html-css)](https://github.com/srodrigodecastro/html-css)
 [![projeto-android](https://github-readme-stats.vercel.app/api/pin/?username=srodrigodecastro&repo=projeto-android)](https://srodrigodecastro.github.io/projeto-android/)
 
-## Skills I'm Learning (Habilidades Que Estou Aprendendo)
+## Skills I'm Learning (Habilidades Que Estou Aprendendo) <img align="right" alt="Riey" height=180 width=200 src="https://i.pinimg.com/originals/a1/89/af/a189af0a7ad5fe31b912c6f905e845fc.gif" />
 
 <div style="display: inline_block"><br/>
   <img img_align="center" alt="HTML5" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img img_align="center" alt="CSS3" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img img_align="center" alt="JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img img_align="center" alt="VsCode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="right" alt="Riey" height=180 width=200 src="https://i.pinimg.com/originals/a1/89/af/a189af0a7ad5fe31b912c6f905e845fc.gif" /> 
+  <img img_align="center" alt="VsCode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
   </div>
 
 ## Skills I'll Learn Soon! (Habilidades Que Aprenderei Em Breve)
