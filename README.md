@@ -18,7 +18,7 @@
 [![html-css](https://github-readme-stats.vercel.app/api/pin/?username=srodrigodecastro&repo=html-css)](https://github.com/srodrigodecastro/html-css)
 [![projeto-android](https://github-readme-stats.vercel.app/api/pin/?username=srodrigodecastro&repo=projeto-android)](https://srodrigodecastro.github.io/projeto-android/)
 
-## Skills I'm Learning <img align="right" alt="Riey" height=140 width=160 src="https://i.pinimg.com/originals/a1/89/af/a189af0a7ad5fe31b912c6f905e845fc.gif" />
+## Skills I'm Learning <img align="right" alt="Riey" height=180 width=200 src="https://i.pinimg.com/originals/a1/89/af/a189af0a7ad5fe31b912c6f905e845fc.gif" />
 
 <div style="display: inline_block"><br/>
   <img img_align="center" alt="HTML5" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
