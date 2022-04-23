@@ -4,7 +4,7 @@
    <a href="https://www.youtube.com/c/RodrigodeCastro_Oficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
    <a href="https://www.instagram.com/rodrigodcastroficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
    <a href="https://www.facebook.com/rodrigo.castrosouza.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-   <a href="https://www.linkedin.com/in/rodrigo-castro-souza-39bb9a13b/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+   <a href="https://github.com/srodrigodecastro" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
    <a href="https://www.linkedin.com/in/rodrigo-castro-souza-39bb9a13b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <br>     
