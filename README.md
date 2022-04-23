@@ -18,9 +18,9 @@
 [![html-css](https://github-readme-stats.vercel.app/api/pin/?username=srodrigodecastro&repo=html-css)](https://github.com/srodrigodecastro/html-css)
 [![projeto-android](https://github-readme-stats.vercel.app/api/pin/?username=srodrigodecastro&repo=projeto-android)](https://srodrigodecastro.github.io/projeto-android/)
    
-<img align="right" alt="Riey" height=150 width=170 src="https://i.pinimg.com/originals/a1/89/af/a189af0a7ad5fe31b912c6f905e845fc.gif" />
+<img align="right" alt="Riey" height=190 width=210 src="https://i.pinimg.com/originals/a1/89/af/a189af0a7ad5fe31b912c6f905e845fc.gif" />
 
-## Skills I'm Learning (Habilidades Que Estou Aprendendo)
+## Skills I'm Learning
 
 <div style="display: inline_block"><br/>
   <img img_align="center" alt="HTML5" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -29,7 +29,7 @@
   <img img_align="center" alt="VsCode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
   </div>
 
-## Skills I'll Learn Soon! (Habilidades Que Aprenderei Em Breve)
+## Skills I'll Learn Soon!
 
 <div>  
   <img img_align="center" alt="Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -39,7 +39,7 @@
   <img img_align="center" alt="TypeScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
-  ## Programs I already use (Programas Que Já Uso)
+  ## Programs I Already Use!
 
 <div style="display: inline_block"><br/>
   <img img_align="center" alt="SonyVegas" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" />
