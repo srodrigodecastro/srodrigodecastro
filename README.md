@@ -16,7 +16,7 @@
 </div>
  
 [![html-css](https://github-readme-stats.vercel.app/api/pin/?username=srodrigodecastro&repo=html-css)](https://github.com/srodrigodecastro/html-css)
-[![projeto-android](https://github-readme-stats.vercel.app/api/pin/?username=srodrigodecastro&repo=projeto-android)](https://github.com/srodrigodecastro/projeto-android)
+[![projeto-android](https://github-readme-stats.vercel.app/api/pin/?username=srodrigodecastro&repo=projeto-android)](https://srodrigodecastro.github.io/projeto-android/)
 
 ## Skills I'm Learning (Habilidades Que Estou Aprendendo)
 
