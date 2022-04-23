@@ -13,7 +13,6 @@
   <a href="https://github.com/srodrigodecastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srodrigodecastro&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srodrigodecastro&layout=compact)](https://github.com/srodrigodecastro/github-readme-stats" />
-  <img align="right" alt="Riey" height=180 width=200 src="https://i.pinimg.com/originals/a1/89/af/a189af0a7ad5fe31b912c6f905e845fc.gif" /> 
 </div>
  
 [![html-css](https://github-readme-stats.vercel.app/api/pin/?username=srodrigodecastro&repo=html-css)](https://github.com/srodrigodecastro/html-css)
@@ -26,6 +25,7 @@
   <img img_align="center" alt="CSS3" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img img_align="center" alt="JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img img_align="center" alt="VsCode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="right" alt="Riey" height=180 width=200 src="https://i.pinimg.com/originals/a1/89/af/a189af0a7ad5fe31b912c6f905e845fc.gif" /> 
   </div>
 
 ## Skills I'll Learn Soon! (Habilidades Que Aprenderei Em Breve)
